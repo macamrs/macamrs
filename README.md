@@ -1,12 +1,10 @@
-<img align="right" src="./header.png>
+![header](https://user-images.githubusercontent.com/89083483/174132934-2c805260-f198-4ef7-96a9-07286c3c78c5.png)
 
-# ---    
+I'm a Full-Stack Dev student, working specially on my front-end skills for the future. 
 
-I'm a Full-Stack Dev student, working on getting my front-end skills for the future.
+💻 Currently working on a Individual Project (PERN stack)
 
-### <div align="center"></div>  
-  
-<br/>  
+💡 Learning the basics of UX/UI Design
 
 ## 🛠 Languages and Tools:
 
