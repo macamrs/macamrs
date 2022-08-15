@@ -2,9 +2,7 @@
 
 I'm a Full-Stack Dev student, working specially on my front-end skills for the future. 
 
-💻 Currently working on a Individual Project (PERN stack)
-
-💡 Learning the basics of UX/UI Design
+💡 Learning Three.js and the basics of UX/UI Design
 
 ## 🛠 Languages and Tools:
 
