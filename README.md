@@ -2,7 +2,7 @@
 
 I'm a Full-Stack Developer, working specially on my front-end skills for the future (but if you need help putting together an app or API with Node.js and Express then I've got your back.). 
 
-💡 Learning Three.js and the basics of UX/UI Design
+💡 Learning Vue.js, Three.js and the basics of UX/UI Design
 
 ## 🛠 Languages and Tools:
 
