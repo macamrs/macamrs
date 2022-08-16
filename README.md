@@ -1,6 +1,6 @@
 ![header](https://user-images.githubusercontent.com/89083483/174132934-2c805260-f198-4ef7-96a9-07286c3c78c5.png)
 
-I'm a Full-Stack Dev student, working specially on my front-end skills for the future. 
+I'm a Full-Stack Developer, working specially on my front-end skills for the future (but if you need help putting together an app or API with Node.js and Express then I've got your back.). 
 
 💡 Learning Three.js and the basics of UX/UI Design
 
