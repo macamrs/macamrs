@@ -4,6 +4,8 @@ I'm a Full-Stack Developer, working specially on my front-end skills for the fut
 
 💡 Learning Vue.js, Three.js and the basics of UX/UI Design
 
+📬 How to reach me: singhmacarena.r@gmail.com
+
 ## 🛠 Languages and Tools:
 
 <div style="display: flex">
@@ -49,7 +51,3 @@ I'm a Full-Stack Developer, working specially on my front-end skills for the fut
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
